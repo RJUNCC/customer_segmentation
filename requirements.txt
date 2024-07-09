@@ -1,0 +1,9 @@
+polars
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+kneed
+scipy
+pyarrow
